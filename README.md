@@ -8,7 +8,7 @@ I have also worked as a Web Content Editor for the Tulane ByWater Institute and 
 I have a passion for writing, editing, and communicating complex technical information in a clear and engaging way.
 My goal is to continue learning and growing as a Technical Writer and to deliver high-quality documentation that meets the needs of the users and the organization.
 
-## Docs as code vs word processors
+## Docs as code versus traditional word processors
 
 Not all businesses write documentation in the same way.
 Some companies use AsciiDoc, Dita, or other "docs as code" options in order to optimize collaboration and version control.
