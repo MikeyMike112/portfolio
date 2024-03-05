@@ -30,7 +30,7 @@ For an insight into my approach and the quality of my work, I invite you to expl
 * [C++ driver quickstart](https://docs.datastax.com/en/astra/astra-db-vector/drivers/cpp-quickstart.html)
 * [C# driver quickstart](https://docs.datastax.com/en/astra/astra-db-vector/drivers/csharp-quickstart.html)
 
-## Software documentation using the Google Suite
+## Software documentation using word processors
 
 During my time working as a government contractor for the Department of Defense, I was unable to disclose any of my work publicly.
 To showcase my writing abilities during that time, I sat down with an engineer who explained PivotTables to me, a feature in Microsoft Excel, in order to showcase my writing style.
