@@ -18,7 +18,7 @@ My goal is to continue learning and growing as a Technical Writer and to deliver
 
 Not all businesses write documentation in the same way.
 Some companies use AsciiDoc, Dita, or other "docs as code" options in order to optimize collaboration and version control.
-Other companies may choose traditional word processesors such as Microsoft Word or Google Docs.
+Other companies may choose traditional word processors such as Microsoft Word or Google Docs.
 
 To accommodate different styles of documentation, this page provides links to my work in both formats.
 
