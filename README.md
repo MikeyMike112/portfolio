@@ -47,6 +47,7 @@ See my [Introduction to PivotTables](https://docs.google.com/document/d/1P0K-FJb
 
 Migrating the entirety of the DataStax Enterprise 5.1 and 6.8 documentation from Dita to AsciiDoc was a lengthy and critical project in my professional career.
 This entailed running all of the documentation through a converter and then cleaning up all remaining formatting mistakes, ensuring that the documentation rendered correctly and free from UI complications.
+
 The project involved meticulous error resolution when building AsciiDoc with Antora, demonstrating my patience and determination to complete meticulous long-term projects.
 
 * [DSE 5.1 documentation](https://docs.datastax.com/en/dse/5.1/docs/getting-started/get-started-dse.html)
