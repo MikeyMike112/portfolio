@@ -9,7 +9,7 @@ I have a passion for writing, editing, and communicating complex technical infor
 My goal is to continue learning and growing as a Technical Writer and to deliver high-quality documentation that meets the needs of the users and the organization.
 
 ## Table of contents
-1. [Docs as code versus traditional word processors](#codevtrad)
+1. [Documentation as code versus traditional word processors](#codevtrad)
 2. [Documentation as code](#docsascode)
 3. [Software documentation using word processors](#wordprocessors)
 4. [Documentation conversions](#conversions)
